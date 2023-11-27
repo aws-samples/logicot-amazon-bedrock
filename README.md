@@ -1,11 +1,6 @@
-## My Project
+## Logical Chain of Thought (LogiCot) Experiment usiong Amazon Bedrock
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This repo contains an Amazon Bedrock (Using Anthropic Claude Instant v1) experiment of the paper [Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic](https://arxiv.org/pdf/2309.13339.pdf) also known as LogiCOT. 
 
 ## Security
 
